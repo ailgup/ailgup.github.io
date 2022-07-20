@@ -5,7 +5,7 @@ source "https://rubygems.org"
 # gem "rails"
 
 
-gem "jekyll", "~> 4.2"
+gem "jekyll", "~> 3.9.2"
 
 gem 'jekyll-assets', '~> 2.3.2'
 
