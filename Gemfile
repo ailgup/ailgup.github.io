@@ -7,7 +7,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2"
 
-
+gem 'jekyll-assets', '~> 2.3.2'
 
 gem "jekyll-bookshop", "3.2.1"
 
